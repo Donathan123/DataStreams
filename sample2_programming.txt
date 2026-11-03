@@ -1,0 +1,10 @@
+Java is an object-oriented programming language.
+Python is popular for data science and scripting.
+A Stream in Java lets you process collections of data.
+Lambda expressions were added in Java 8.
+JavaScript runs in web browsers.
+C++ gives programmers low-level memory control.
+The Java Virtual Machine runs compiled bytecode.
+SQL is used to query relational databases.
+Swing is a Java library for building desktop GUIs.
+Rust focuses on memory safety without garbage collection.
